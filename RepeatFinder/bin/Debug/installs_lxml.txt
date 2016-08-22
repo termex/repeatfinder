@@ -1,0 +1,3 @@
+Processing c:\users\2\documents\visual studio 2015\projects\repeatfinder\repeatfinder\bin\debug\lxml-3.6.4-cp27-cp27m-win32.whl
+Installing collected packages: lxml
+Successfully installed lxml-3.6.4

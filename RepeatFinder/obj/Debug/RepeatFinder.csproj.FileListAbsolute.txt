@@ -1,0 +1,10 @@
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\bin\Debug\RepeatFinder.exe
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\bin\Debug\RepeatFinder.pdb
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.csprojResolveAssemblyReference.cache
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.MainForm.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.Loader.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.Properties.Resources.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.csproj.GenerateResource.Cache
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.exe
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.pdb
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Debug\RepeatFinder.AnimFinder.resources

@@ -1,0 +1,10 @@
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\bin\Release\RepeatFinder.exe
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\bin\Release\RepeatFinder.pdb
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.AnimFinder.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.MainForm.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.Loader.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.Properties.Resources.resources
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.csproj.GenerateResource.Cache
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.exe
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.pdb
+C:\Users\2\Documents\Visual Studio 2015\Projects\RepeatFinder\RepeatFinder\obj\Release\RepeatFinder.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+Collecting python-docx
+  Using cached python-docx-0.8.6.tar.gz
+Requirement already satisfied (use --upgrade to upgrade): lxml>=2.3.2 in c:\python27\lib\site-packages (from python-docx)
+Installing collected packages: python-docx
+  Running setup.py install for python-docx: started
+    Running setup.py install for python-docx: finished with status 'done'
+Successfully installed python-docx-0.8.6
